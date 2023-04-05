@@ -9,7 +9,7 @@ Here are the contents I am trying to figure out and the Note of study.
 
 * [Machine Learning](https://blackrobin15.github.io/Blackrobin.github.io/MachineLearning/MachineLearning_index.html)
 * [CV](https://blackrobin15.github.io/Blackrobin.github.io/CV/CV_index.html)
-* [Math and Physics](https://blackrobin15.github.io/Blackrobin.github.io/CV/CV_index.html)
+* [Math and Physics](https://blackrobin15.github.io/Blackrobin.github.io/MathandPhysics/MathandPhysics_index.html)
 * [Interesting Project](https://blackrobin15.github.io/Blackrobin.github.io/InterestingProject/IP_index.html)
 
 
