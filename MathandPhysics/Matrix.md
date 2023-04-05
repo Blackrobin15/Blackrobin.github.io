@@ -1,3 +1,15 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 # Matrix
 
 This part is for some basic matrix operations and realize with numpy.
@@ -60,9 +72,11 @@ A = 1.0
  [1.55058842 1.29345741 1.31880754]
  [1.05390459 1.68531902 1.35922624]
  [1.36074392 1.32126726 1.74901425]]
-``` 
+```
 
-2. Multiple
+2. Multiple  
+It can 
+
 3. Transpose
 4. Determinant(行列式)
 5. Jacobi
